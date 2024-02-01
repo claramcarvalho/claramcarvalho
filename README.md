@@ -20,18 +20,21 @@
 | HTML |
 | CSS |
 | Javascript |
+| Swift / XCode|
+| .NET Framework |
+| PHP |
+| Java |
+| Python, Django |
 </details>
 <details>
 <summary>What is in progress... :writing_hand:</summary>
   
   | Technologies |
 |-----------|
-| Swift / XCode|
-| .NET Framework |
-| PHP |
-| Java |
-| Python, Django |
 | React |
+| ASP.NET |
+| Android Mobile Development |
+| Golang |
 </details>
 <details>
 <summary>Other NOT programming skills...</summary>
